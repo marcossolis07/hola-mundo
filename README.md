@@ -1,2 +1,1 @@
-# hola-mundo
-este es mi primer repositor
+#soy un titulo
